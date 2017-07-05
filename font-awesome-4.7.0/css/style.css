@@ -1,0 +1,44 @@
+   /*
+Description: Exercice: Intégration d'une maquette et utilisation de Bootstrap
+Nom de l'auteur: EL HADDIOUI MHAMED
+Contact : bassrimk35@gmail.com
+*/
+    /* --- TABLE DES MATIERES
+01. POLICES
+02. HEADER
+03. MENU
+04. FOOTER
+--- */
+
+
+.logo-titre {
+	margin: 30px auto;
+}
+
+
+body {
+	background-color:  #FFF
+}
+
+h2 {
+	text-align: center;
+}
+
+.footer1 {
+	height: 320px;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #313131;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.social-icons {
+	height: 50px;
+	width: 100px;
+	background-color: white;
+	margin: 30px auto;
+}
